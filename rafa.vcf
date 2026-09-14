@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:López-Pardos;Rafa;;;
+FN:Rafa López-Pardos
+ORG:Realaize Capital Holding S.L.
+TITLE:Managing Director
+EMAIL;type=INTERNET;type=WORK;type=pref:rlp@realaize.capital
+TEL;type=CELL;type=VOICE;type=pref:+34639182805
+ADR;type=WORK:;;Calle de Zurbano 34\, 4º Izda.;Madrid;;28010;Spain
+URL:https://www.realaize.capital
+item1.URL:https://www.linkedin.com/in/rafael-l%C3%B3pez-pardos-131b1b2b/
+item1.X-ABLabel:LinkedIn
+NOTE:Living & Hospitality real estate investment in Spain and Southern Europe.
+REV:2026-09-14T00:00:00Z
+END:VCARD
