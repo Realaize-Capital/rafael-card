@@ -1,7 +1,5 @@
-# Tarjeta digital - Rafa López-Pardos
+# Tarjeta digital - Rafa Lopez-Pardos
 
-Managing Director - Realaize Capital  
-(dominio pendiente)
+Managing Director - Realaize Capital
 
-HTML autocontenido: tipografia Butler, logo y foto van incrustados en base64.
-Sin dependencias externas ni CDN. Generado con el pipeline de tarjetas del equipo.
+HTML autocontenido: tipografia Butler, logo y foto incrustados en base64.
